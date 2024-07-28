@@ -1,7 +1,7 @@
 # Smart-Irrigation-Controller
 SmartVineyard Controller is an embedded system designed to optimize irrigation for terraced vineyards, ensuring efficient water distribution and energy use. This project leverages embedded system principles to address real-world agricultural challenges, blending technology with sustainability.
 
-Project Overview
+<h2>Project Overview<\h2>
 This system manages the water distribution from a central reservoir to three irrigation zones at different elevations. It involves precise control of water pressure and flow to meet the specific needs of each zone.
 
 Key Features
