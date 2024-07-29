@@ -18,7 +18,7 @@ This system manages the water distribution from a central reservoir to three irr
 - **Potentiometer:** Allows manual adjustment of pump RPM.
 - **MCU Timer:** Simulates real-time operation on a scaled timeline.
 
-### Key Features
+### MCU Timer Board
 <img width="810" alt="MCU Timer Board" src="https://github.com/Karnan123/Smart-Irrigation-Controller/blob/main/Timer_Board_Picture.jpg?raw=true">
 
 ## System Operation
