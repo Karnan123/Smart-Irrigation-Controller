@@ -59,7 +59,7 @@ This project highlights the potential of embedded systems in resource conservati
 - Here are images of the fully assembled system:
 
    <div style="display: flex; gap: 10px;">
-      <img width="410" alt="Fully Assembled Smart Irrigation Controller Image 1" src="https://github.com/Karnan123/Smart-Irrigation-Controller/blob/main/Fully_Assembled_Smart_Irrigation_Controller_1.jpg?raw=true">
+      <img width="390" alt="Fully Assembled Smart Irrigation Controller Image 1" src="https://github.com/Karnan123/Smart-Irrigation-Controller/blob/main/Fully_Assembled_Smart_Irrigation_Controller_1.jpg?raw=true">
       <img width="390" alt="Fully Assembled Smart Irrigation Controller Image 2" src="https://github.com/Karnan123/Smart-Irrigation-Controller/blob/main/Fully_Assembled_Smart_Irrigation_Controller_2.jpg?raw=true">
    </div>
 
@@ -67,5 +67,5 @@ This project highlights the potential of embedded systems in resource conservati
 -	Below is an image of the finalized PCB design:
 
 <center>
-   <img width="810" alt="PCB Design All Layers" src="https://github.com/Karnan123/Smart-Irrigation-Controller/blob/main/PCB_Design_All_Layers.PNG?raw=true">
+   <img width="800" alt="PCB Design All Layers" src="https://github.com/Karnan123/Smart-Irrigation-Controller/blob/main/PCB_Design_All_Layers.PNG?raw=true">
 </center>
