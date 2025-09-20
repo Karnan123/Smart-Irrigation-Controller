@@ -56,12 +56,6 @@ This system manages the water distribution from a central reservoir to three irr
 This project highlights the potential of embedded systems in resource conservation. By integrating sensors, actuators, and intelligent control, Smart-Irrigation Controller ensures sustainable water management in agriculture.
 
 ## Additional Images
-- Here are images of the fully assembled system:
-
-   <div style="display: flex; gap: 10px;">
-      <img width="390" alt="Fully Assembled Smart Irrigation Controller Image 1" src="https://github.com/Karnan123/Smart-Irrigation-Controller/blob/main/Fully_Assembled_Smart_Irrigation_Controller_1.jpg?raw=true">
-      <img width="390" alt="Fully Assembled Smart Irrigation Controller Image 2" src="https://github.com/Karnan123/Smart-Irrigation-Controller/blob/main/Fully_Assembled_Smart_Irrigation_Controller_2.jpg?raw=true">
-   </div>
 
 -	To finalize the Smart-Irrigation Controller, a custom PCB was designed using the Proteus PCB Design Tool. This PCB integrated the STM32 microcontroller and the Timer Board into a compact and reliable layout, reducing wiring complexity and enhancing system efficiency.
 -	Below is an image of the finalized PCB design:
